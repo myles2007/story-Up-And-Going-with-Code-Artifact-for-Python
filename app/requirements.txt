@@ -1,0 +1,2 @@
+faker==24.2.0
+greetings==0.0.1
