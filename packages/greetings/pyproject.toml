@@ -1,0 +1,13 @@
+[project]
+name = "greetings"
+version = "0.0.1"
+authors = [{ name = "Myles Loffler" }]
+description = "A simple package to make greeting someone easy."
+readme = "README.md"
+requires-python = ">3.9" # Supported versions of Python.
+dependencies = [
+    # List of required dependencies. Best practice is to specify
+    # an upper and lower range if known.
+    #You can use the following format:
+    # "boto3>=1,<2"
+]
